@@ -1,0 +1,3 @@
+﻿  Source.c
+E:\KT_test\C223841\bai 1\bai 1\Source.c(7,2): warning C4098: 'main': 'void' function returning a value
+  bai 1.vcxproj -> E:\KT_test\C223841\bai 1\Debug\bai 1.exe
