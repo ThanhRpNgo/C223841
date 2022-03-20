@@ -9,9 +9,9 @@ typedef struct
 
 void main()
 {
-	int function();
+	
 	smarthome thietbi;
-	thietbi.light = ("on",function(1)),
-	thietbi.fan = ("off", function(0)),
-	thietbi.motor = ("off", function(0));
+	thietbi.light =(char)("on");
+	thietbi.fan = (char)("off");
+	thietbi.motor = (char)("off");
 }
